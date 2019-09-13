@@ -1,3 +1,5 @@
-# ChurchEncoding
+This repository exists to provide example code and exercises for programming workshops.
 
-Code for the [Church encoding](http://blog.ploeh.dk/2018/05/22/church-encoding) article series, as well as the [Visitor as a sum type](http://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type) article.
+## It's likely that I may delete the repository, or alter its history, between workshops.
+
+It's a .NET Core port of https://github.com/ploeh/ChurchEncoding, courtesy of https://github.com/netcorebcn/ChurchEncoding.
